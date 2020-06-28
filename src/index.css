@@ -1,13 +1,58 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* -moz-support */
+.dropdown-menu{
+    margin-top: 15px;
+    max-height: 200px;
+    padding: 0px 0px 0px 0px;
+    scrollbar-width: thin;
+    overflow-x: hidden;
+    scrollbar-color: #343a40 white;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* -webkit-support */
+
+::-webkit-scrollbar {
+    padding-right: 0px;
+    background: #c2c3c4;
+    border-radius: 4px;
+    height: 8px;
+    width: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: #343a40;
+    border-radius: 4px;
+}
+.btn .btn-outline-dark:focus,.btn-outline-dark:active {
+    outline: none !important;
+    box-shadow: none;
+ }
+.btn-sm{
+    margin-bottom: 0px;
+}
+ .btn:focus {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+.btn-outline-light:hover,.btn-outline-light{
+    color:#FFF;
+    background-color: #343a40 ;
+}
+.thead-dark > tr > th{
+    border: none;
+}
+.thead-dark > tr > th:first-child{
+    border-top-left-radius: 2px;
+}
+.thead-dark > tr > th:last-child{
+    border-top-right-radius: 2px;
+}
+
+.custom-thead > tr > th{
+   padding-bottom: 18.8px;
+}
+.tooltip .tooltip-inner{
+    max-width: 110%;
+    width: 110%;
+}
+.tooltip_mark{
+    width: 15%;
 }
