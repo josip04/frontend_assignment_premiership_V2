@@ -46,6 +46,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Screeenshots
 
-![img1](https://user-images.githubusercontent.com/22986909/85951257-50b20900-b962-11ea-9422-54d501eef5e6.PNG)
-![img2](https://user-images.githubusercontent.com/22986909/85951259-54459000-b962-11ea-99e6-b463ea3bc292.PNG)
-![img3](https://user-images.githubusercontent.com/22986909/85951262-57408080-b962-11ea-97da-2781550eb1be.PNG)
+![img1](https://user-images.githubusercontent.com/22986909/85951656-ea7ab580-b964-11ea-8dbf-dc1e4c6b01b0.PNG)
+![img2](https://user-images.githubusercontent.com/22986909/85951658-ebabe280-b964-11ea-9358-376b3bc8b79a.PNG)
+![img3](https://user-images.githubusercontent.com/22986909/85951659-ed75a600-b964-11ea-87c3-0613df68441a.PNG)
